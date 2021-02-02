@@ -4,7 +4,7 @@ This project allows you to play DOOM in the browser. Here is [a silly blog post]
 
 ### Demo
 
-To demonstrate how this works, follow [this link to GitHub pages](https://almroot.github.io/doom/), or [this link to doom.pwn.life](https://doom.pwn.life/).
+To demonstrate how this works, follow [this link to doom.pwn.life](https://doom.pwn.life/). The code is hosted here on GitHub pages.
 
 ### XSS
 
